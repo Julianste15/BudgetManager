@@ -2,7 +2,11 @@
 
 Este es un proyecto desarrollado para la asignatura de **Software 1** de la **Universidad del Cauca** (Semestre 2024).
 
-El propósito principal de este repositorio es demostrar la generación de código a partir de herramientas de modelado y diseño de software, además de la implementación de pruebas unitarias para validar las reglas de negocio.
+## Descripción del Proyecto
+
+**Budget Manager** es una aplicación diseñada para la gestión financiera personal, permitiendo a los usuarios llevar un control riguroso de su economía mediante el monitoreo de ingresos, gastos y metas de ahorro. El sistema actúa como un asistente financiero que ayuda a visualizar el flujo de caja y a planificar objetivos a largo plazo.
+
+El propósito principal de este repositorio es demostrar la generación de código a partir de herramientas de modelado y diseño de software, además de la implementación de pruebas unitarias para validar las reglas de negocio en un entorno estructurado.
 
 ## Arquitectura y Generación de Código
 
