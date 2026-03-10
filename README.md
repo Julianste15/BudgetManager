@@ -6,7 +6,7 @@ El propósito principal de este repositorio es demostrar la generación de códi
 
 ## Arquitectura y Generación de Código
 
-El código inicial de este proyecto fue generado utilizando **Power Designer** a partir del modelo orientado a objetos `BudgetManagerDefinitivo10.oom`. Este enfoque dirigido por modelos (MDD - Model-Driven Development) permite estructurar la aplicación de la siguiente manera:
+El código inicial de este proyecto fue generado utilizando **Power Designer** a partir del modelo orientado a objetos `BudgetManager.oom`. Este enfoque dirigido por modelos (MDD - Model-Driven Development) permite estructurar la aplicación de la siguiente manera:
 
 *   **`budget/packDomain/`**: Contiene la lógica de negocio y las entidades principales del dominio financiero:
     *   `clsBudgetManager`: Fachada principal (Singleton) que orquesta las colecciones de ingresos, gastos y metas.
