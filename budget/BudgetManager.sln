@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetManager", "BudgetManager.csproj", "{CECF716E-B8BB-4F92-96C6-D44355063346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CECF716E-B8BB-4F92-96C6-D44355063346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECF716E-B8BB-4F92-96C6-D44355063346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECF716E-B8BB-4F92-96C6-D44355063346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECF716E-B8BB-4F92-96C6-D44355063346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

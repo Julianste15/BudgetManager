@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Power Designer / Project Specific
+BudgetManagerDefinitivo10.oom
+BudgetManagerDefinitivo10.bak
+*.bak
+
+# Temporary / OS
+thumbs.db
+ehthumbs.db
+Desktop.ini
