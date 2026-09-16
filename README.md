@@ -1,5 +1,13 @@
 # Budget Manager - Software 1 (2024)
 
+> Gestor financiero personal generado con PowerDesigner (MDD) y validado con pruebas unitarias MSTest.
+
+**🇪🇸 Español:** CRUD de ingresos, gastos (fijos/variables) y metas de ahorro. El código se generó inicialmente desde un modelo OOM en SAP PowerDesigner (Model-Driven Development) y se implementó en C#/.NET, validado con una batería de pruebas unitarias con MSTest/Fakes.
+
+**🇺🇸 English:** Personal finance app with CRUD for income, expenses and savings goals. Code initially generated from a SAP PowerDesigner OOM model (MDD) and implemented in C#/.NET, validated with MSTest unit tests.
+
+---
+
 Este es un proyecto desarrollado para la asignatura de **Software 1** de la **Universidad del Cauca** (Semestre 2024).
 
 ## Descripción del Proyecto
